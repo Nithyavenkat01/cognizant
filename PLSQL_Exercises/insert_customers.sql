@@ -1,0 +1,7 @@
+USE bankdb;
+
+INSERT INTO Customers
+VALUES
+(101,'John',65,15000,FALSE),
+(102,'Mary',45,8000,FALSE),
+(103,'David',70,20000,FALSE);

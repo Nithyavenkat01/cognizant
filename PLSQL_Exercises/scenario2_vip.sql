@@ -1,0 +1,7 @@
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE Customers
+SET IsVIP = TRUE
+WHERE Balance > 10000;
+
+SELECT * FROM Customers;
