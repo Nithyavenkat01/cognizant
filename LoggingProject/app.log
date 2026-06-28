@@ -1,0 +1,14 @@
+12:52:34.779 [main] ERROR Exercise.LoggingExample - This is an error message
+12:52:34.781 [main] WARN  Exercise.LoggingExample - This is a warning message
+12:52:49.275 [main] INFO  Exercise.ParameterizedLogging - Employee Name: Nithya
+12:52:49.280 [main] INFO  Exercise.ParameterizedLogging - Employee Age: 20
+12:52:49.280 [main] INFO  Exercise.ParameterizedLogging - Employee Salary: 25000.5
+12:52:49.282 [main] INFO  Exercise.ParameterizedLogging - Nithya is 20 years old.
+12:52:59.161 [main] DEBUG Exercise.AppenderExample - This is a DEBUG message
+12:52:59.163 [main] INFO  Exercise.AppenderExample - This is an INFO message
+12:52:59.164 [main] WARN  Exercise.AppenderExample - This is a WARN message
+12:52:59.164 [main] ERROR Exercise.AppenderExample - This is an ERROR message
+13:07:52.027 [main] DEBUG Exercise.AppenderExample - This is a DEBUG message
+13:07:52.029 [main] INFO  Exercise.AppenderExample - This is an INFO message
+13:07:52.029 [main] WARN  Exercise.AppenderExample - This is a WARN message
+13:07:52.030 [main] ERROR Exercise.AppenderExample - This is an ERROR message
